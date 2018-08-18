@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\bin\Debug\durchschnitt.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\obj\Debug\durchschnitt.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\obj\Debug\durchschnitt.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\obj\Debug\durchschnitt.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\obj\Debug\durchschnitt.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\bin\Debug\durchschnitt.exe
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\bin\Debug\durchschnitt.pdb
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\obj\Debug\durchschnitt.exe
+c:\users\alex\documents\visual studio 2015\Projects\durchschnitt\durchschnitt\obj\Debug\durchschnitt.pdb
